@@ -1,1 +1,1 @@
-# CS50X
+# Assignments from Harvard University's CS50X course
