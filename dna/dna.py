@@ -1,4 +1,4 @@
- Get functions from libraries
+# Get functions from libraries
 from sys import argv, exit
 import csv
 import sys
