@@ -1,0 +1,86 @@
+body
+{
+    background-image: url('blackbackground.jpg');
+}
+
+.sitename
+{
+    text-align: left;
+    padding: 40px 0px 0px 40px;
+    color: white;
+    font-size: 80px;
+}
+
+.slogan
+{
+    text-align: left;
+    padding: 0px 0px 10px 40px;
+    color: white;
+    font-size: 25px;
+}
+
+/* Top navigation bar */
+.topnav
+{
+  background-color: grey;
+  overflow: hidden;
+}
+
+/* Links in navigation bar */
+.topnav a
+{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 25px 60px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Color of link of navigation bar when hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Current tab in navigation bar */
+.topnav a.active {
+  background-color: purple;
+  color: white;
+}
+
+p
+{
+    color: white;
+    padding: 20px 10px 10px 40px;
+}
+
+ul
+{
+    color: white;
+    padding: 0px 10px 10px 90px;
+}
+
+/* Section titles */
+.header
+{
+    color: white;
+    padding: 50px 0px 10px 40px;
+}
+
+.carousel
+{
+    width: 300px;
+    padding: 50px 0px 50px 40px;
+}
+
+.carousel-control-prev
+{
+    left: 40px;
+}
+
+/* Container in homepage */
+.container-fluid
+{
+     padding:0px;
+}
