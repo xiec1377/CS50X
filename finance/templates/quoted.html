@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <h1> {{ search_quote["name"] }} ({{ search_quote["symbol"] }}) is currently worth {{ search_quote["price"] }} USD per share. </h1>
+{% endblock %}
